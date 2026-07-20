@@ -1,0 +1,147 @@
+{
+  "gNodeBs": [
+    {
+      "gNodeBId": "BS_1",
+      "cells": [
+        {
+          "cellId": "BS_1_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_1_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_2",
+      "cells": [
+        {
+          "cellId": "BS_2_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_2_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_3",
+      "cells": [
+        {
+          "cellId": "BS_3_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_3_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_4",
+      "cells": [
+        {
+          "cellId": "BS_4_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_4_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_5",
+      "cells": [
+        {
+          "cellId": "BS_5_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_5_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_6",
+      "cells": [
+        {
+          "cellId": "BS_6_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_6_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_7",
+      "cells": [
+        {
+          "cellId": "BS_7_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_7_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_8",
+      "cells": [
+        {
+          "cellId": "BS_8_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_8_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_9",
+      "cells": [
+        {
+          "cellId": "BS_9_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_9_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_10",
+      "cells": [
+        {
+          "cellId": "BS_10_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_10_C1-S1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gNodeBId": "BS_11",
+      "cells": [
+        {
+          "cellId": "BS_11_C1",
+          "sectors": [
+            {
+              "sectorId": "BS_11_C1-S1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

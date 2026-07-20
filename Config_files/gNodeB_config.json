@@ -1,0 +1,466 @@
+{
+  "gNodeBs": [
+    {
+      "gnodeb_id": "BS_1",
+      "latitude": 41.888786,
+      "longitude": 12.491326,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.888786,
+        12.491326
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_1_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 101,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 291868.889,
+      "y_m": 4640471.713
+    },
+    {
+      "gnodeb_id": "BS_2",
+      "latitude": 41.887708,
+      "longitude": 12.494306,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.887708,
+        12.494306
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_2_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 102,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292112.639,
+      "y_m": 4640344.782
+    },
+    {
+      "gnodeb_id": "BS_3",
+      "latitude": 41.888253,
+      "longitude": 12.495437,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.888253,
+        12.495437
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_3_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 103,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292208.247,
+      "y_m": 4640402.553
+    },
+    {
+      "gnodeb_id": "BS_4",
+      "latitude": 41.889455,
+      "longitude": 12.494447,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.889455,
+        12.494447
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_4_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 104,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292130.009,
+      "y_m": 4640538.423
+    },
+    {
+      "gnodeb_id": "BS_5",
+      "latitude": 41.890657,
+      "longitude": 12.490344,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.890657,
+        12.490344
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_5_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 105,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 291793.487,
+      "y_m": 4640681.848
+    },
+    {
+      "gnodeb_id": "BS_6",
+      "latitude": 41.888885,
+      "longitude": 12.492924,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.888885,
+        12.492924
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_6_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 106,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292001.796,
+      "y_m": 4640478.827
+    },
+    {
+      "gnodeb_id": "BS_7",
+      "latitude": 41.887206,
+      "longitude": 12.493348,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.887206,
+        12.493348
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_7_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 107,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292031.524,
+      "y_m": 4640291.365
+    },
+    {
+      "gnodeb_id": "BS_8",
+      "latitude": 41.889368,
+      "longitude": 12.488155,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.889368,
+        12.488155
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_8_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 108,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 291607.681,
+      "y_m": 4640544.032
+    },
+    {
+      "gnodeb_id": "BS_9",
+      "latitude": 41.891567,
+      "longitude": 12.493856,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.891567,
+        12.493856
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_9_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 109,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 292087.831,
+      "y_m": 4640774.37
+    },
+    {
+      "gnodeb_id": "BS_10",
+      "latitude": 41.891171,
+      "longitude": 12.491592,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.891171,
+        12.491592
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_10_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 110,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 291898.702,
+      "y_m": 4640735.893
+    },
+    {
+      "gnodeb_id": "BS_11",
+      "latitude": 41.892269,
+      "longitude": 12.487107,
+      "coverageRadius": 0.5,
+      "power": 20,
+      "frequency": 3500000000,
+      "bandwidth": 20000000,
+      "location": [
+        41.892269,
+        12.487107
+      ],
+      "region": [
+        "Colosseo"
+      ],
+      "maxUEs": 25,
+      "cellCount": 1,
+      "sectorCount": 1,
+      "handoverMargin": 3,
+      "handoverHysteresis": 1,
+      "timeToTrigger": 50,
+      "interFreqHandover": false,
+      "xnInterface": true,
+      "sonCapabilities": true,
+      "measurementBandwidth": 20,
+      "blacklistedCells": [],
+      "loadBalancingOffset": 10,
+      "cellIds": [
+        "BS_11_C1"
+      ],
+      "sectorIds": [
+        {
+          "sectorId": "S1",
+          "pci": 111,
+          "bandwidth": 20000000,
+          "power": 20,
+          "frequency": 3500000000
+        }
+      ],
+      "x_m": 291519.657,
+      "y_m": 4640859.005
+    }
+  ]
+}
